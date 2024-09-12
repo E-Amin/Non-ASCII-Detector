@@ -1,6 +1,6 @@
 # NonASCII-Detector
 
-**NonASCII-Detector** is a Python tool with a Streamlit interface for identifying non-ASCII characters in text and FASTA files. It is designed to support NGS genotyping pipelines by ensuring that sequence headers conform to ASCII standards.
+**NonASCII-Detector** is a Python-based tool with a Streamlit interface for detecting non-ASCII characters in sequence headers of text and FASTA files. This tool ensures that sequence headers conform to ASCII standards, providing detailed reports on any non-ASCII characters found.
 
 ## Features
 
